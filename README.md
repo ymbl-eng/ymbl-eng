@@ -80,10 +80,10 @@
 実務において利用経験があり、その中でも経験が濃く、知見が深いものをリストアップしています。
 
 - HW(Server/Storage)
-  - HPE
-  - Lenovo
-  - Dell
-  - 富士通
+  - HPE(ProLiant/MSA/Nimble Storage/Alletra Storage)
+  - Lenovo(ThinkSystem)
+  - Dell(PowerEdge)
+  - 富士通(PRIMERGY)
   - Netapp
 
 - OS  
@@ -108,6 +108,10 @@
   - Veeam
   - Arcserve UDP/Backup/HA
   - ActiveImage Protector
+    
+- UPS
+  - APC
+  - OMRON  
 
 - Azure
   - Virtual Machines
