@@ -38,6 +38,7 @@
 | 2022.03.31 | [Microsoft Certified: Azure Solutions Architect Expert(AZ303/304/305)](https://learn.microsoft.com/api/credentials/share/ja-jp/HiroakiYamamoto-0602/31E03F1C618CBD30?sharingId=B42EB0DEA488DD92)|
 | 2022.09.28 | [Microsoft Certified: Azure Network Engineer Associate(AZ700)](https://learn.microsoft.com/api/credentials/share/ja-jp/HiroakiYamamoto-0602/F388B53613C6E4C2?sharingId=B42EB0DEA488DD92)|
 | 2023.09.20 | [Microsoft Certified: Azure Data Engineer Associate(DP203)](https://learn.microsoft.com/api/credentials/share/ja-jp/HiroakiYamamoto-0602/1F2096B283368746?sharingId=B42EB0DEA488DD92)|
+| 2024.12.26 | [Microsoft Certified: Azure AI Engineer Associate(AI102)](https://learn.microsoft.com/api/credentials/share/ja-jp/HiroakiYamamoto-0602/101A6FF0D15DA840?sharingId=B42EB0DEA488DD92)|
 
 ### AWS認定資格
 
@@ -57,7 +58,7 @@
 
 ## 現在のポジション
 
-インフラエンジニア(システムエンジニア)
+SierでITソリューションデリバリー部隊のインフラエンジニア
 
 ## 活かせる経験スキル
 
@@ -106,7 +107,7 @@
 
 - バックアップ
   - Veeam
-  - Arcserve UDP/Backup/HA
+  - Arcserve UDP/Backup/RHA
   - ActiveImage Protector
     
 - UPS
@@ -152,8 +153,12 @@
   - Routing
   - Load Balancer
 
+- LLM  
+  - Ollama
+  - Dify
+
 - その他ソフトウェア
-  - Apex One
+  - ApexOne
   - SKYSEA
   - OpManager
     
