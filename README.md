@@ -85,42 +85,39 @@ SIerでITソリューションデリバリー部隊のインフラエンジニ�
 
 実務において利用経験があり、その中でも経験が濃く、知見が深いものをリストアップしています。
 
-- HW(Server/Storage)
+- 【HW（Server/Storage）】
   - HPE(ProLiant/MSA/Nimble Storage/Alletra Storage)
   - Lenovo(ThinkSystem)
   - Dell(PowerEdge)
   - 富士通(PRIMERGY)
   - Netapp
 
-- OS  
+- 【OS】  
   - Windows 10/11
   - Windows Server 2008R2/2012R2/2016/2022/2025
 
-- Windows役割機能  
+- 【Windows サーバ機能】  
   - ActiveDirectoy
   - DNS
   - DHCP
   - WSUS
 
-- ハイパーバイザー
+- 【ハイパーバイザー】
   - Hyper-V
-  - VMware vSphere
-      - ESXi
-      - vCenter
-      - Horizon
+  - VMware（ESXi / vCenter / Horizon）
   - Nutanix AHV
   - HPE Morpheus VM Essentials Software (HVM)
 
-- バックアップ
+- 【バックアップ】
   - Veeam
-  - Arcserve UDP/Backup/RHA
+  - Arcserve（UDP / Backup / RHA)
   - ActiveImage Protector
     
-- UPS
+- 【UPS】
   - APC
   - OMRON  
 
-- Azure
+- 【Azure】
   - Virtual Machines
   - Azure Virtual Network
   - Azure Bastion
@@ -128,17 +125,17 @@ SIerでITソリューションデリバリー部隊のインフラエンジニ�
   - Azure Backup
   - Application Gateway
 
-- AWS
+- 【AWS】
   - Amazon EC2
   - Amazon VPC
   - Amazon Simple Storage Service (S3)
   - AWS Backup
 
-- その他ソフトウェア
+- 【その他ソフトウェア】
   - Patch Manager Plus
   - ESET
 
-- Network
+- 【Network】
   - VLAN
 
 ### 無理なく扱える技術
@@ -146,25 +143,25 @@ SIerでITソリューションデリバリー部隊のインフラエンジニ�
 実務において利用経験があるものの、得意とも不得意とも言えないものをリストアップしています。
 ※やろうと思えば、使えるレベルの技術を列挙しています。
 
-- OS  
+- 【OS】  
   - RHEL 8
-  - Cent OS
+  - CentOS
 
-- HW(Network)
+- 【Network 機器】
   - Cisco
   - ヤマハ
   - A5
   - FortiGate
 
-- Network
+- 【Network 技術】
   - Routing
   - Load Balancer
 
-- LLM  
+- 【LLM / AI】 
   - Ollama
   - Dify
 
-- その他ソフトウェア
+- 【その他ソフトウェア】
   - ApexOne
   - SKYSEA
   - OpManager
@@ -173,22 +170,22 @@ SIerでITソリューションデリバリー部隊のインフラエンジニ�
 
 実務において利用経験がないものの、個人で学習したことがあるものをリストアップしています。
 
-- ハイパーバイザー  
+- 【ハイパーバイザー】  
   - Proxmox
 
-- 言語
+- 【言語】
   - Python
 
-- DB
+- 【DB】
   - PostgreSQL
 
-- Azure
+- 【Azure】
   - Azure Synapse Analytics
   - Azure SQL Server　(SQL Database)
   - Cosmos DB
   - Azure Data Lake Storage Gen2
  
-- AWS
+- 【AWS】
   - Amazon Glue DataBrew
   - Amazon RDS
   - Amazon DynamoDB
