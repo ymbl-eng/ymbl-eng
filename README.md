@@ -34,8 +34,6 @@
 
 ### 🌀 Virtualization  
 ![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-607078?logo=vmware&logoColor=white)
-![ESXi](https://img.shields.io/badge/ESXi-607078?logo=vmware&logoColor=white)
-![vCenter](https://img.shields.io/badge/vCenter-607078?logo=vmware&logoColor=white)
 ![Hyper--V](https://img.shields.io/badge/Hyper--V-0078D4?logo=microsoft&logoColor=white)
 ![Nutanix AHV](https://img.shields.io/badge/Nutanix%20AHV-024DA1?logo=nutanix&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
