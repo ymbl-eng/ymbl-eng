@@ -1,194 +1,122 @@
+<!-- タイトル部分（アイコン＋名前） -->
+<h1 align="center">👋 Hi, I'm Hiroaki Yamamoto</h1>
+<p align="center">
+  <strong>Infrastructure Engineer | Server / Storage / Virtualization / Cloud</strong><br>
+  Building reliable systems across On-Prem & Cloud (Azure / AWS)
+</p>
 
-# プロフィール
+<p align="center">
+  <a href="https://twitter.com/ymbl_eng">Twitter</a> |
+  <a href="https://qiita.com/ymbl_eng">Qiita</a> |
+  <a href="https://zenn.dev/yambal173">Zenn</a> |
+  <a href="https://note.com/ymbl/">Note</a>
+</p>
 
-- [プロフィール](#プロフィール)
-  - [基本情報](#基本情報)
-    - [Microsoft Azure認定資格](#microsoft-azure認定資格)
-    - [AWS認定資格](#aws認定資格)
-    - [その他の認定資格](#その他の認定資格)
-  - [現在のポジション](#現在のポジション)
-  - [活かせる経験スキル](#活かせる経験スキル)
-  - [現在目指している方向性・キャリアビジョン(2024年04月)](#現在目指している方向性キャリアビジョン2024年04月)
-  - [主な業務経歴](#主な業務経歴)
-    - [要約](#要約)
-  - [得意な技術スタック](#得意な技術スタック)
-    - [実務経験あり](#実務経験あり)
-    - [無理なく扱える技術](#無理なく扱える技術)
-    - [実務利用なし、学習済の技術](#実務利用なし学習済の技術)
+---
 
+## 🚀 About Me
 
+インフラエンジニアとして **サーバ / ストレージ / ネットワーク / 仮想化 / クラウド** を横断した設計・構築を担当しています。  
+オンプレとクラウドを組み合わせたシステム基盤構築が得意です。
 
-## 基本情報
+- 💼 現職：SIer / ITソリューションデリバリー部隊  
+- 🔧 専門：VMware / Hyper-V / Nutanix AHV / Windows Server / Azure / AWS  
+- ☁️ 興味：クラウド、セキュリティ、AI（Ollama / Dify）  
+- 🧑‍💻 目標：複数領域を跨いで柔軟に対応できるエンジニアへ  
 
-| key     | value                                     |
-| :------ | :---------------------------------------- |
-| 名前    | Hiroaki Yamamoto (ハンドルネーム：やんばる)|
-| X(Twitter) | [ymbl_eng](https://twitter.com/ymbl_eng)  |
-| Qiita   | [ymbl_eng](https://qiita.com/ymbl_eng)    |
-| zenn    | [ymbl_eng](https://zenn.dev/yambal173)    |
-| note    | [ymbl](https://note.com/ymbl/)    |
+---
 
-### Microsoft Azure認定資格
+## 🧩 Skills / Badges
 
-| 認定日     | 認定資格名                                    |
-| :--------- | :-------------------------------------------- |
-| 2020.05.25 | [Microsoft Certified: Azure Fundamentals(AZ900)](https://learn.microsoft.com/api/credentials/share/ja-jp/HiroakiYamamoto-0602/BC2DFB08289D01C3?sharingId=B42EB0DEA488DD92)|
-| 2021.05.28 | [Microsoft Certified: Azure Administrator Associate(AZ104)](https://learn.microsoft.com/api/credentials/share/ja-jp/HiroakiYamamoto-0602/2FDF25BE395520BF?sharingId=B42EB0DEA488DD92)|
-| 2021.07.29 | [Microsoft Certified: Azure Security Engineer Associate(AZ500)](https://learn.microsoft.com/api/credentials/share/ja-jp/HiroakiYamamoto-0602/8F447E3A4873FA37?sharingId=B42EB0DEA488DD92)|
-| 2022.03.31 | [Microsoft Certified: Azure Solutions Architect Expert(AZ303/304/305)](https://learn.microsoft.com/api/credentials/share/ja-jp/HiroakiYamamoto-0602/31E03F1C618CBD30?sharingId=B42EB0DEA488DD92)|
-| 2022.09.28 | [Microsoft Certified: Azure Network Engineer Associate(AZ700)](https://learn.microsoft.com/api/credentials/share/ja-jp/HiroakiYamamoto-0602/F388B53613C6E4C2?sharingId=B42EB0DEA488DD92)|
-| 2023.09.20 | [Microsoft Certified: Azure Data Engineer Associate(DP203)](https://learn.microsoft.com/api/credentials/share/ja-jp/HiroakiYamamoto-0602/1F2096B283368746?sharingId=B42EB0DEA488DD92)|
-| 2024.12.26 | [Microsoft Certified: Azure AI Engineer Associate(AI102)](https://learn.microsoft.com/api/credentials/share/ja-jp/HiroakiYamamoto-0602/101A6FF0D15DA840?sharingId=B42EB0DEA488DD92)|
+### ☁ Cloud  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
-### AWS認定資格
+### 🌀 Virtualization  
+![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-607078?logo=vmware&logoColor=white)
+![ESXi](https://img.shields.io/badge/ESXi-607078?logo=vmware&logoColor=white)
+![vCenter](https://img.shields.io/badge/vCenter-607078?logo=vmware&logoColor=white)
+![Hyper--V](https://img.shields.io/badge/Hyper--V-0078D4?logo=microsoft&logoColor=white)
+![Nutanix AHV](https://img.shields.io/badge/Nutanix%20AHV-024DA1?logo=nutanix&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
 
-| 認定日     | AWS認定資格名                                    |
-| :--------- | :-------------------------------------------- |
-| 2021.03.29 | [AWS Certified Cloud Practitioner(CLF-C02)](https://www.credly.com/badges/4cafab1e-9c50-4a3f-ace2-153819bf520f/public_url)|
-| 2024.02.29 | [AWS Certified Solutions Architect – Associate(SAA-C03)](https://www.credly.com/badges/9eb1b9f6-d89e-4ce0-b843-becb8c546b3f/public_url)|
+### 💾 Backup  
+![Veeam](https://img.shields.io/badge/Veeam-00B336?logo=veeam&logoColor=white)
+![Arcserve](https://img.shields.io/badge/Arcserve-6A1B9A?logo=arcserve&logoColor=white)
+![ActiveImage Protector](https://img.shields.io/badge/ActiveImage%20Protector-1E90FF?logo=windows&logoColor=white)
 
-### その他の認定資格
+### 🖥 OS  
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=microsoft&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2010/11-0078D4?logo=windows&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?logo=redhat&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white)
 
-| 認定日     | 認定資格名                                    |
-| :--------- | :-------------------------------------------- |
-| 2016.06 | ITパスポート|
-| 2016.10 | VTSP |
-| 2017.01 | ITILファンデーション|
-| 2020.08 | Exam 742: Identity with Windows Server 2016|
+### 🔧 Hardware  
+![HPE](https://img.shields.io/badge/HPE-00A78E?logo=hewlettpackard&logoColor=white)
+![Lenovo](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=white)
+![Dell](https://img.shields.io/badge/Dell-0085C3?logo=dell&logoColor=white)
+![Fujitsu](https://img.shields.io/badge/Fujitsu-FF0000?logo=fujitsu&logoColor=white)
+![NetApp](https://img.shields.io/badge/NetApp-0067C5?logo=netapp&logoColor=white)
 
-## 現在のポジション
+### 🌐 Network  
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?logo=fortinet&logoColor=white)
+![Yamaha](https://img.shields.io/badge/Yamaha%20Network-4B0082?logo=yamaha&logoColor=white)
 
-SIerでITソリューションデリバリー部隊のインフラエンジニア
+### 🤖 AI / LLM  
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![Dify](https://img.shields.io/badge/Dify-4F46E5?logo=vercel&logoColor=white)
 
-## 活かせる経験スキル
+### 🧰 Tools  
+![Patch Manager Plus](https://img.shields.io/badge/Patch%20Manager%20Plus-5E5DF0?logo=manageengine&logoColor=white)
+![ESET](https://img.shields.io/badge/ESET-0095D9?logo=eset&logoColor=white)
+![ApexOne](https://img.shields.io/badge/ApexOne-D71920?logo=trendmicro&logoColor=white)
+![SKYSEA](https://img.shields.io/badge/SKYSEA-1E90FF?logo=windows&logoColor=white)
+![OpManager](https://img.shields.io/badge/OpManager-4CAF50?logo=manageengine&logoColor=white)
 
-サーバ・ストレージ・ネットワーク・セキュリティ・クラウドといった
-インフラ全般を横断し、要件定義〜設計〜構築まで一貫して対応できる点が強みです。
-特定の製品に依存せず、環境と要件に応じた最適な提案・構築が可能です。
+---
 
-## 現在目指している方向性・キャリアビジョン(2025年04月)
+## 📜 Certifications
 
-特定の領域に限定せず、幅広いインフラ領域を理解し、課題を多角的に解決できるエンジニアを目指しています。
-オンプレ・クラウド双方を活かし、より価値のあるインフラ提案・構築ができるようスキルを磨いています。
+- Microsoft Azure Fundamentals (AZ-900)  
+- Azure Administrator Associate (AZ-104)  
+- Azure Security Engineer (AZ-500)  
+- Azure Solutions Architect Expert (AZ-303/304/305)  
+- Azure Network Engineer (AZ-700)  
+- Azure Data Engineer (DP-203)  
+- Azure AI Engineer (AI-102)  
+- AWS Solutions Architect – Associate  
+- AWS Cloud Practitioner  
+- ITIL Foundation  
+- VTSP  
+- Exam 742: Identity with Windows Server 2016  
 
-## 主な業務経歴
+---
 
-### 要約
+## 🏗️ Work Experience (Summary)
 
-サーバ・ストレージ・ネットワーク・セキュリティなど、インフラ基盤全般（特にサーバ領域）において、
-要件定義・設計・構築を中心に担当してきました。
-複数の技術領域を横断しながら、システム全体の構成を考えたインフラ設計が得意です。
+サーバ、ストレージ、ネットワーク、セキュリティを含む  
+**インフラ基盤全般の要件定義・設計・構築** を経験。
 
-## 得意な技術スタック
+- 仮想基盤（VMware / Hyper-V / AHV）の設計・構築  
+- Active Directory / ファイルサーバ移行  
+- Azure / AWS へのシステム移行  
+- バックアップ（Veeam / Arcserve）の設計  
+- 中小規模（VM 30〜50台）のインフラ提案・構築  
 
-### 実務経験あり
+---
 
-実務において利用経験があり、その中でも経験が濃く、知見が深いものをリストアップしています。
+## 📫 Contact
 
-- 【HW（Server/Storage）】
-  - HPE(ProLiant/MSA/Nimble Storage/Alletra Storage)
-  - Lenovo(ThinkSystem)
-  - Dell(PowerEdge)
-  - 富士通(PRIMERGY)
-  - Netapp
+- 🐦 Twitter: https://twitter.com/ymbl_eng  
+- 📝 Qiita: https://qiita.com/ymbl_eng  
+- 📘 Zenn: https://zenn.dev/yambal173  
+- ✍ Note: https://note.com/ymbl/  
 
-- 【OS】  
-  - Windows 10/11
-  - Windows Server 2008R2/2012R2/2016/2022/2025
+お気軽にフォローやメッセージください！
 
-- 【Windows サーバ機能】  
-  - ActiveDirectoy
-  - DNS
-  - DHCP
-  - WSUS
+---
 
-- 【ハイパーバイザー】
-  - Hyper-V
-  - VMware（ESXi / vCenter / Horizon）
-  - Nutanix AHV
-  - HPE Morpheus VM Essentials Software (HVM)
-
-- 【バックアップ】
-  - Veeam
-  - Arcserve（UDP / Backup / RHA)
-  - ActiveImage Protector
-    
-- 【UPS】
-  - APC
-  - OMRON  
-
-- 【Azure】
-  - Virtual Machines
-  - Azure Virtual Network
-  - Azure Bastion
-  - Azure Migrate
-  - Azure Backup
-  - Application Gateway
-
-- 【AWS】
-  - Amazon EC2
-  - Amazon VPC
-  - Amazon Simple Storage Service (S3)
-  - AWS Backup
-
-- 【その他ソフトウェア】
-  - Patch Manager Plus
-  - ESET
-
-- 【Network】
-  - VLAN
-
-### 無理なく扱える技術
-
-実務において利用経験があるものの、得意とも不得意とも言えないものをリストアップしています。
-※やろうと思えば、使えるレベルの技術を列挙しています。
-
-- 【OS】  
-  - RHEL 8
-  - CentOS
-
-- 【Network 機器】
-  - Cisco
-  - ヤマハ
-  - A5
-  - FortiGate
-
-- 【Network 技術】
-  - Routing
-  - Load Balancer
-
-- 【LLM / AI】 
-  - Ollama
-  - Dify
-
-- 【その他ソフトウェア】
-  - ApexOne
-  - SKYSEA
-  - OpManager
-    
-### 実務利用なし、学習済の技術
-
-実務において利用経験がないものの、個人で学習したことがあるものをリストアップしています。
-
-- 【ハイパーバイザー】  
-  - Proxmox
-
-- 【言語】
-  - Python
-
-- 【DB】
-  - PostgreSQL
-
-- 【Azure】
-  - Azure Synapse Analytics
-  - Azure SQL Server　(SQL Database)
-  - Cosmos DB
-  - Azure Data Lake Storage Gen2
- 
-- 【AWS】
-  - Amazon Glue DataBrew
-  - Amazon RDS
-  - Amazon DynamoDB
-  - CloudFormation
-  - AWS Redshift
-  - Amazon Athena
+<p align="center">
+  Thanks for visiting! ⭐️ Star this profile to stay updated!
+</p>
