@@ -87,7 +87,8 @@
 - AWS Cloud Practitioner  
 - ITIL Foundation  
 - VTSP  
-- Exam 742: Identity with Windows Server 2016  
+- Exam 742: Identity with Windows Server 2016
+- 情報セキュリティマネジメント  
 
 ---
 
